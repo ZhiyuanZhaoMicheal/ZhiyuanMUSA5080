@@ -15,7 +15,7 @@ Advanced spatial analysis and data science for urban planning and public policy.
 - **Final Project:** Capstone modeling challenge
 
 ## About Me
-hello this is Zhiyuan
+hello this is Zhiyuan Zhao
 
 ## Contact
 - Email: [zhao2003@upenn.edu]
